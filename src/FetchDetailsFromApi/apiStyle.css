@@ -1,0 +1,25 @@
+.App table {
+    border-collapse: collapse;
+    width: 100%;
+    border: #00BFFF 1px;
+}
+
+.App table th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.App table tr:nth-child(even) {
+    background-color: Lightgreen;
+}
+
+
+
+.App h3{
+    font-size: 15px;
+    background-color: #00BFFF;
+    font: revert;
+    height: 40px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+}

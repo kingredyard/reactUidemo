@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.App h3{
+  font-size: 15px;
+  background-color: #00BFFF;
+  font: revert;
+  height: 40px;
+  margin-bottom: 10px;
+  padding-left: 5px;
+}
